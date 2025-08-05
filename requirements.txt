@@ -1,0 +1,8 @@
+# GitHub Repository Analyzer Requirements
+# Python 3.6+
+
+# No external dependencies required
+# Uses only Python standard library
+
+# Note: GitHub CLI (gh) must be installed separately
+# See README.md for installation instructions
